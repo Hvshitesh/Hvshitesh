@@ -4,4 +4,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hvshitesh&show_icons=false&theme=tokyonight)<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hvshitesh&show_icons=false&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br><br>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hvshitesh)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hvshitesh)](https://github.com/Hvshitesh/github-readme-stats)
