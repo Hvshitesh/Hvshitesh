@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/benbahrenburg/benbahrenburg/main/assets/wave.gif" width="40" alt="Boy's in Jacket">, I'm Hitesh</h1>
-<h3 align="center">A passionate Python Developer from India</h3>
+<h3 align="center">A passionate Python Developer from India</h3><br>
 <img src="https://giffiles.alphacoders.com/358/35895.gif" alt="Boy's in Jacket"><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hvshitesh&show_icons=true&theme=tokyonight)<br><br>
