@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/benbahrenburg/benbahrenburg/main/assets/wave.gif" alt="Boy's in Jacket">, I'm Hitesh</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/benbahrenburg/benbahrenburg/main/assets/wave.gif" width="42" alt="Boy's in Jacket">, I'm Hitesh</h1>
 <h3 align="center">A passionate Python Developer from India</h3>
 <img src="https://giffiles.alphacoders.com/358/35895.gif" alt="Boy's in Jacket"><br>
 
