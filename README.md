@@ -4,4 +4,3 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hvshitesh&show_icons=false&theme=tokyonight)<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hvshitesh&show_icons=false&layout=compact&theme=tokyonight)]<br><br>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hvshitesh&show_icons=false&theme=tokyonight)]
