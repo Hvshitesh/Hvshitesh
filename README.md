@@ -8,3 +8,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hvshitesh&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hvshitesh&show_icons=true&theme=tokyonight)
+
+![snake gif](https://github.com/Hvshitesh/Hvshitesh/blob/output/github-contribution-grid-snake.gif)
