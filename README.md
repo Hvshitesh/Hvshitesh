@@ -3,5 +3,4 @@
 <img align="center" src="https://devtechnosys.com/insights/wp-content/uploads/2022/02/MEAN-Stack-Work.gif" alt="Boy's in Jacket"><br>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Hvshitesh&theme=tokyonight-duo)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hvshitesh&layout=compact&theme=tokyonight-duo)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hvshitesh)](https://github.com/anuraghazra/github-readme-stats)
+
