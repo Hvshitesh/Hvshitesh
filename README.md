@@ -1,4 +1,5 @@
-<h1 align="center">Hello Folks 👋,Myself Hitesh Sonawane</h1>
+<h1 align="center">Hello Folks 👋, <br>
+  Myself Hitesh Sonawane</h1>
 <h3 align="center">I have keen interest in Web Development & DevOps Engineering. I love learning new technologies and applying them in different scenarios, where they might help in solving real world problems</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hvshitesh&label=Profile%20views&color=0e75b6&style=flat" alt="hvshitesh" /> </p>
 
