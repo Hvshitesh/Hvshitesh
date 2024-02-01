@@ -1,11 +1,10 @@
-<h1 align="left">Hello Folks 👋, <br>
+<h1 align="left">Hello Folks 👋,
   Myself Hitesh Sonawane</h1>
-<h3 align="center">I have keen interest in Web Development & DevOps Engineering. I love learning new technologies and applying them in different scenarios, where they might help in solving real world problems</h3>
+<h3 align="center">As a passionate technologist, I'm deeply interested in Web Development and DevOps Engineering. My enthusiasm lies in learning new technologies and applying them to address real-world challenges. With a commitment to innovation and continuous improvement, I aspire to make a positive impact through my work.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hvshitesh&label=Profile%20views&color=0e75b6&style=flat" alt="hvshitesh" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hvshitesh" alt="hvshitesh" /></a> </p>
 
-- 💬 Ask me about **Web development,Devops engineering**
+- 💬 Ask me about **Web Development , DevOps Engineering**
 
 - 📫 How to reach me **hvshitesh29@gmail.com**
 
