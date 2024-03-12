@@ -1,5 +1,5 @@
 <h1 align="left">Hello Folks 👋, Myself Hitesh Sonawane</h1>
-<h3 align="center">As a passionate technologist, I'm deeply interested in Web Development and DevOps Engineering. My enthusiasm lies in learning new technologies and applying them to address real-world challenges. With a commitment to innovation and continuous improvement, I aspire to make a positive impact through my work.</h3>
+<h3 style="text-align: left;">As a passionate technologist, I'm deeply interested in Web Development and DevOps Engineering. My enthusiasm lies in learning new technologies and applying them to address real-world challenges. With a commitment to innovation and continuous improvement, I aspire to make a positive impact through my work.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hvshitesh&label=Profile%20views&color=0e75b6&style=flat" alt="hvshitesh" /> </p>
 
 - 💬 Ask me about **Web Development , DevOps Engineering**
