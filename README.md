@@ -1,8 +1,12 @@
 <h1 align="left">Hello Folks 👋, Myself Hitesh Sonawane</h1>
-<h3 style="text-align: left;">As a passionate technologist, I'm deeply interested in Web Development and DevOps Engineering. My enthusiasm lies in learning new technologies and applying them to address real-world challenges. With a commitment to innovation and continuous improvement, I aspire to make a positive impact through my work.</h3>
+<h3 style="text-align: left;">Greetings Everyone!
+
+I'm currently in my final year of pursuing a Bachelor of Engineering degree at Pune Institute of Computer Technology. As a passionate technologist, I'm deeply interested in Web Development, Cloud Engineering, and DevOps. With a strong foundation in core subjects like Data Structures, Algorithms, Operating Systems, and Database Management, I excel at problem-solving and thrive in dynamic, challenging environments. My enthusiasm lies in learning new technologies and applying them to address real-world challenges.
+
+My commitment to innovation and continuous improvement drives me to stay ahead in the ever-evolving tech landscape. I aspire to make a positive impact through my work, particularly in the Cloud Engineering and DevOps domains.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hvshitesh&label=Profile%20views&color=0e75b6&style=flat" alt="hvshitesh" /> </p>
 
-- 💬 Ask me about **Web Development , DevOps Engineering**
+- 💬 Ask me about **Web Development , Cloud Engineering, DevOps Engineering**
 
 - 📫 How to reach me **hvshitesh29@gmail.com**
 
