@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Cloud+%26+DevOps+Engineer;Final+Year+Engineering+Student;Problem+Solver+%26+Tech+Enthusiast)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Cloud+%26+DevOps+Engineer;Problem+Solver+%26+Tech+Enthusiast)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=hvshitesh&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/hvshitesh)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=netlify)](https://hvshitesh.netlify.app)
