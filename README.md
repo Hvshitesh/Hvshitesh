@@ -104,20 +104,7 @@ const hitesh = {
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<a href="https://github.com/Hvshitesh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hvshitesh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hvshitesh&layout=compact&langs_count=8&theme=tokyonight"/>
-</a>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hvshitesh&theme=tokyonight)](https://github.com/Hvshitesh)
-
-</div>
+<div align="center"> <a href="https://github.com/hvshitesh"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hvshitesh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvshitesh&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/> </a> <br/> <a href="https://github.com/hvshitesh"> <img src="https://github-readme-streak-stats.herokuapp.com?user=hvshitesh&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/> </a> </div>
 
 ---
 
